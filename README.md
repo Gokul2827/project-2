@@ -1,4 +1,4 @@
-# project-2
+# Calculator
 Python program for simple calculator
 def add(num1, num2):
 	return num1 + num2
